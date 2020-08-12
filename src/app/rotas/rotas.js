@@ -29,7 +29,6 @@ module.exports = function(app) {
     
                 ))
                 .catch(erro => console.log(erro));
-    
     });
 
 };
